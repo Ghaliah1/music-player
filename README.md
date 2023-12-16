@@ -1,6 +1,21 @@
 <h2 style=" text-align=center;"> Music-Player </h2>
 <br>
-<img src="![music-player (3)](https://github.com/Ghaliah1/music-player/assets/145565852/7907cec3-21b5-43f7-ba25-aa99b24ac696)">
+<img src="![music-player (3)](https://github.com/Ghaliah1/music-player/assets/145565852/31a63298-d820-43ca-b14c-650d71869cbd)">
+<br>
+<img alt="Static Badge" src="https://img.shields.io/badge/play%20my%20fav%20songs%20%3E%3C?labelColor=lightgray">
+<img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Ghaliah1/music-player?labelColor=lightgray&color=purple">
+<br>
+- This is a music player app to enjoy playing the special songs
 <br>
 <h2 style=" text-align=center;"> Use: </h2>
-
+<br>
+- You can play the song by clicking on the play button and pausing it by reclick on the button 
+<br>
+- You can shuffle the playlist or loop the song by clicking on the icon on the bottom left
+<br>
+- You can switch between the songs by either the arrows or clicking on the list icon and choosing the song 
+<br>
+- You can skip to the good part in the songs by clicking on the desired part on the bar 
+<br>
+<h2 style=" text-align=center;"> Description:</h2>
+I wanted to make a playlist player of my favorite songs and to experience new things , I tried to make it easier to use and comfortable to listen to .
