@@ -1,6 +1,7 @@
 <h2 style=" text-align=center;"> Music-Player </h2>
 <br>
-<img src="thisPC/downloads/music-player(3).png">
+<img src="![music-player (3)](https://github.com/Ghaliah1/music-player/assets/145565852/89fae1a6-98d6-4963-9405-5b27326f1d8e)
+">
 <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Listen--to--my--fav--songs-lightgray">
 
