@@ -1,8 +1,9 @@
 <h2 style=" text-align=center;"> Music-Player </h2>
 <br>
-<img src="![music-player (3)](https://github.com/Ghaliah1/music-player/assets/145565852/31a63298-d820-43ca-b14c-650d71869cbd)">
+<img url=("![music-player (3)](https://github.com/Ghaliah1/music-player/assets/145565852/31a63298-d820-43ca-b14c-650d71869cbd)")>
 <br>
-<img alt="Static Badge" src="https://img.shields.io/badge/play%20my%20fav%20songs%20%3E%3C?labelColor=lightgray">
+<img alt="Static Badge" src="https://img.shields.io/badge/Listen--to--my--fav--songs-lightgray">
+
 <img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Ghaliah1/music-player?labelColor=lightgray&color=purple">
 <br>
 - This is a music player app to enjoy playing the special songs
