@@ -1,5 +1,4 @@
-<h2 style=" text-align=center;"> Music-Player </h2>
-<br>
+
 <img src="/images/banner.jpg">
 <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Listen--to--my--fav--songs-lightgray">
